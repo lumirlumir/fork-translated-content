@@ -1,6 +1,7 @@
 ---
 title: theme_color
-slug: Web/Manifest/Reference/theme_color
+slug: Web/Progressive_web_apps/Manifest/Reference/theme_color
+original_slug: Web/Manifest/Reference/theme_color
 ---
 
 {{QuickLinksWithSubpages('/ru/docs/Web/Manifest')}}

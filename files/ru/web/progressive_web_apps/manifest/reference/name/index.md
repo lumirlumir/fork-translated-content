@@ -1,6 +1,7 @@
 ---
 title: name
-slug: Web/Manifest/Reference/name
+slug: Web/Progressive_web_apps/Manifest/Reference/name
+original_slug: Web/Manifest/Reference/name
 ---
 
 {{QuickLinksWithSubpages('/ru/docs/Web/Manifest')}}

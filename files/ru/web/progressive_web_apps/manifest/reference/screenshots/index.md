@@ -1,6 +1,7 @@
 ---
 title: screenshots
-slug: Web/Manifest/Reference/screenshots
+slug: Web/Progressive_web_apps/Manifest/Reference/screenshots
+original_slug: Web/Manifest/Reference/screenshots
 ---
 
 {{QuickLinksWithSubpages("/ru/docs/Web/Manifest")}}

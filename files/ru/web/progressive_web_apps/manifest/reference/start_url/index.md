@@ -1,6 +1,7 @@
 ---
 title: start_url
-slug: Web/Manifest/Reference/start_url
+slug: Web/Progressive_web_apps/Manifest/Reference/start_url
+original_slug: Web/Manifest/Reference/start_url
 ---
 
 {{QuickLinksWithSubpages('/ru/docs/Web/Manifest')}}

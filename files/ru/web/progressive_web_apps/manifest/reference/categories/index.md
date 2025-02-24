@@ -1,6 +1,7 @@
 ---
 title: categories
-slug: Web/Manifest/Reference/categories
+slug: Web/Progressive_web_apps/Manifest/Reference/categories
+original_slug: Web/Manifest/Reference/categories
 ---
 
 {{QuickLinksWithSubpages("/ru/docs/Web/Manifest")}}

@@ -1,6 +1,7 @@
 ---
 title: orientation
-slug: Web/Manifest/Reference/orientation
+slug: Web/Progressive_web_apps/Manifest/Reference/orientation
+original_slug: Web/Manifest/Reference/orientation
 ---
 
 {{QuickLinksWithSubpages('/ru/docs/Web/Manifest')}}

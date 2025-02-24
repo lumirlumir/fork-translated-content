@@ -1,6 +1,7 @@
 ---
 title: display
-slug: Web/Manifest/Reference/display
+slug: Web/Progressive_web_apps/Manifest/Reference/display
+original_slug: Web/Manifest/Reference/display
 ---
 
 {{QuickLinksWithSubpages('/ru/docs/Web/Manifest')}}
